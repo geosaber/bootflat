@@ -10,7 +10,6 @@ pygments:         true
 permalink:        pretty
 
 # Server
-source:           docs
 url:              https://geosaber.github.io/bootflats
 encoding:         UTF-8
 
